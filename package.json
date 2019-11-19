@@ -1,0 +1,23 @@
+{
+  "name": "show-hide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel index.js --out-file=app.js --watch"
+  },
+  "repository": "git+https://github.com/EvangelosKolimitras/show-hide.git",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvangelosKolimitras/show-hide/issues"
+  },
+  "homepage": "https://github.com/EvangelosKolimitras/show-hide#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "eslint": "^6.6.0"
+  }
+}
